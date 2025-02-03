@@ -23,15 +23,29 @@ const apiLimiter = rateLimit({
 app.use('/api/', apiLimiter);
 
 // Dynamic CORS Configuration
+    const allowedOrigins = [
+  'http://localhost:5173',    // Local development (Vite)
+  'http://localhost:3000'   // Another local frontend
+ 
+];
+
 app.use(
   cors({
-    origin: (http://localhost:5173, callback) => {
-      console.log("Origin of request:", origin); // Log origin
-      
-      callback(null, true); // Allow all origins
+    origin: (origin, callback) => {
+      console.log("Origin of request:", origin);
+
+      // Allow requests with no origin (like Postman or mobile apps)
+      if (!origin) return callback(null, true);
+
+      // Check if the origin is in the allowed list
+      if (allowedOrigins.includes(origin)) {
+        callback(null, true); // Allow the request
+      } else {
+        callback(new Error('Not allowed by CORS')); // Block the request
+      }
     },
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
-    credentials: true,
+    credentials: true, // Important if you're using cookies/auth headers
   })
 );
 
