@@ -51,17 +51,14 @@ const userSchema = mongoose.Schema(
         },
         bikenames: {
             type: String,
-            required: [true, 'Bike name is required!'],
-            trim: true,
+           trim: true,
         },
         address: {
             type: String,
-            required: [true, 'Address is required!'],
             trim: true,
         },
         about: {
             type: String,
-            required: [true, 'About section is required!'],
             trim: true,
         },
         image: {
