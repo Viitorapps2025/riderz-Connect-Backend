@@ -1,0 +1,1025 @@
+[
+  {
+    "category": "Expeditions",
+    "events": [
+      {
+        "id": 1,
+        "img": [
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_776833903.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_2044050368.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_2044050407.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/1.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/2.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/3.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/4.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/5.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/7.jpg"
+        ],
+        "title": "Ladakh Bike Expedition – Manali | Leh | Srinagar 9N/10D",
+        "location": " Ladakh, Manali, Srinagar",
+        "startingPoint": [
+          "Manali Bus Stand",
+          "Himachal Pradesh, Kullu Manali Market, Manali"
+        ],
+        "startingdirection": "https://www.google.com/maps/place/Manali+Bus+Stand/@32.2442343,77.1899585,17z/data=!3m1!4b1!4m6!3m5!1s0x3904871af02ae7f3:0x4aa9a2c53da5da5c!8m2!3d32.2442343!4d77.1899585!16s%2Fg%2F11ghs52ym2?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+        "endingPoint": [
+          "Srinagar Airport",
+          "Indragandhi Road, Humhama, Badgam, Jammu and Kashmir 190007"
+        ],
+        "endingdirection": "https://www.google.com/maps/place/Srinagar+International+Airport/@32.2442388,77.1877698,17z/data=!4m6!3m5!1s0x38e192025e43cd75:0xdfbebeb0e6d10417!8m2!3d33.9922841!4d74.7719745!16s%2Fm%2F02pjmtf?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+        "overview": "Join our Ladakh Bike Expedition to experience a thrilling ride travelling through some of the world’s most scenic landscapes to reach your destination. Allow the road to take you across rivers, lakes, valleys, and mountains. Cross some of the highest motorable passes in the world, stop for breaks to relax beside some serene water bodies, and drive through harsh terrains. Visit locations like Siachen and Kargil and enjoy a patriotic vibe on your bike tour. If this excites you, get in touch with us to learn more about our Ladakh Bike Expedition – Manali | Leh | Srinagar 9N/10D package.",
+        "features": [
+          " Gutsy Adventure",
+          " Couples/Group Adventure, Solo Adventure",
+          " 24 hrs confirmation",
+          " Stay",
+          "Bike",
+          "Tour Guide"
+        ],
+        "highlights": [
+          "Drive through the longest highway tunnel in India, Atal Tunnel, measuring 9.02 km.",
+          "Enjoy driving through some of the highest passes in the country, such as Nakee La (15,547 ft), Lachung La (16,616 ft), and Baralacha La (16,040 ft).",
+          "Drive across Khardung La, which is one of the world's highest motorable roads.",
+          "Experience riding through the almost treacherous snow at Baralacha La.",
+          "Visit the Siachen Base Camp, the world’s highest battlefield.",
+          "From Nubra Valley, embark on a journey to the serene Pangong Lake.",
+          "Visit Kargil and Siachen to learn more about the Indian Army and feel a surge of patriotism run through your body.",
+          "Experience driving through Zojila Pass, one of the most picturesque passes in the region.",
+          "Visit Shyok Village, which was recently opened to tourists."
+        ],
+        "pdfSent": true,
+        "pdfLinks": [
+          "https://example.com/ride-details.pdf",
+          "https://example.com/itinerary.pdf"
+        ],
+        "itinerary": [
+          {
+            "day ": "1",
+            "title": "Arrive Manali - Local Sightseeing and Briefing",
+            "activity": [
+              "Upon arrival at Manali, check in at the hotel and relax to acclimatise to the weather.",
+              "The tour captain will give you a brief overview of the ride, the itinerary, bike distribution, etc. Enjoy a leisurely evening.",
+              "After a delicious dinner, relax at the hotel."
+            ]
+          },
+          {
+            "day ": "2",
+            "title": "Manali to Jispa",
+            "activity": [
+              "150 kms / 250 kms  | 10,500 ft. The journey to Ladakh begins on Day 2. Prepare yourself for a thrilling ride!",
+              "The route takes you through Atal Tunnel, Tandi (last petrol pump before Upshi), and Keylong. ",
+              "The group will be accommodated in camps at Jipsa/Sarchu upon reaching there."
+            ]
+          },
+          {
+            "day ": "3",
+            "title": "Jispa/ Sarchu to Leh",
+            "activity": [
+              "250 kms / 350 kms  |  13,780 ft. Gear up for a challenging ride on Day 3, a journey that includes driving across Zing Zing Bar, Suraj Tal, Baralacha La-16040 ft., and Killing Sarai.",
+              "The tour captain will give you a brief overview of the ride, the itinerary, bike distribution, etc. Enjoy a leisurely evening.",
+              "Upon arriving at the destination, we will stay in camps and have a flavourful dinner."
+            ]
+          },
+          {
+            "day ": "4",
+            "title": "Leh to Nubra Velley",
+            "activity": [
+              "160 kms | 3-4 hrs | 17,982 ft. In this section of the Srinagar to Manali Motorbike Expedition, the journey leads you to Nubra Valley via a scenic and thrilling route. ",
+              "The road to the valley crosses Khardung La, known as the world’s highest motorable road.",
+              "The hotel located on the banks of the Nubra River in Nubra Valley is the perfect place for a relaxing overnight stay."
+            ]
+          },
+          {
+            "day ": "5",
+            "title": "Nubra to Turtuk to Nubra",
+            "activity": [
+              "300 kms | 5-6 hrs",
+              "At ‘The Great Siachen Base Camp’ excursion, experience adventure at its best.",
+              "Siachen is located at an altitude of 12000 ft above sea level—the highest battlefield in the world.",
+              "If a visit to Siachen is not possible due to permission hassles, you will be taken for a wonderful excursion to Turtuk, the last village on the Indo-Pak border in Ladakh.",
+              "Stay in Nubra for the night."
+            ]
+          },
+          {
+            "day ": "6",
+            "title": "Nubra Valley to Pangong Lake",
+            "activity": [
+              "150 kms | 3-4 hrs | 14,270 ft",
+              "On Day 6, we move toward the pristine Pangong Lake.",
+              "The road will take you through the newly opened Shyok Village.",
+              "When you reach the shores of this enchanted water body, you will be amazed by its beauty, tranquillity, and vivid colours.",
+              "Next, transfer to the campsite for a bonfire and an evening of relaxation in nature."
+            ]
+          },
+          {
+            "day ": "7",
+            "title": " Pangong to Leh",
+            "activity": [
+              "160 kms | 5-6 hrs | 17,590 ft",
+              "Day 7 brings a unique adventure, with Pangong Tso’s scenic views and stunning landscapes. Before leaving for Leh, breakfast will be served. ",
+              "Cross Chang La (17,590 ft), the second-highest pass of the world, is considered one of the toughest to cross in the world. Leh and the Changthang Plateau are connected by this pass.",
+              "There is a small lake called Tsoltak that we can see before climbing the Mighty Pass.",
+              "There will be a descent into Shakti, a beautiful village, after crossing the pass, and the journey continues toward the Manali-Leh Highway.",
+              "Upon arrival in Leh, roam around the city and rest for the night here."
+            ]
+          },
+          {
+            "day ": "8",
+            "title": "Leh to Kargil",
+            "activity": [
+              "220 kms | 5 hours | 8,780 ft",
+              "Today, we head toward Kargil. Enroute, we will cross Fotu La (13,480 ft), which is the highest in the region in terms of altitude. ",
+              "Cross Chang La (17,590 ft), the second-highest pass of the world, is considered one of the toughest to cross in the world. Leh and the Changthang Plateau are connected by this pass.",
+              "After we visit the Buddhist Monastery of Lamayuru on the way, our next stop will be Fatu La, followed by a descent into the lovely town of Kargil.",
+              "Stay overnight at the hotel."
+            ]
+          },
+          {
+            "day ": "9",
+            "title": "Kargil to Srinagar",
+            "activity": [
+              "200 kms | 6 hrs | 5,200 ft",
+              "After a healthy breakfast, the expedition to Ladakh will begin.",
+              "Witness one of the most picturesque passes in the region, the Zojila Pass. ",
+              "We will take a short break before moving ahead to Srinagar via the breathtaking Sonamarg Valley. ",
+              "The next destination is Srinagar, the capital of Jammu and Kashmir.",
+              "Spend the night in your pre book accommodation."
+            ]
+          },
+          {
+            "day ": "10",
+            "title": "Depart from Srinagar",
+            "activity": [
+              "On Day 10, get ready to depart from Srinagar. Our team wishes you a happy journey back home."
+            ]
+          }
+        ],
+        "stayoptions": [
+          "Manali : Westin 'O' Laurent and Banon Resort/ Seven Hills/ or Similar",
+          "Jispa : Jispa Journey Camps/ Gemur Camps Similar",
+          "Sarchu : Snow Gold Camps/ Wild Adventures/ Holiday Makers/ or Similar",
+          "Leh : Zik Zik/ Royal Heritage Resort/ or Similar",
+          "Nubra : Lasthang/ Alpin Glow Camp/ or Similar",
+          "Pangong : White Heaven Cottage/ or Similar",
+          "Kargil : Rangyul/ Caravan/ or Similar",
+          "Srinagar : Amina House Boat/ or Similar"
+        ],
+        "inclusions": [
+          "Bike",
+          "Fuel",
+          "Helmet",
+          "Permits",
+          "Mechanic",
+          "First Aid Kit",
+          "Oxygen Cylinder",
+          "Accomodation",
+          "Backup Vehicle",
+          "Experienced Tour Marshal",
+          "Breakfast & Dinner ( Dinner on Day 01 to Breakfast on Day 10)",
+          "Bon Fire (Wherever Possible: Depends on the Weather Condition)"
+        ],
+        "note": [
+          "A refundable security deposit of INR 10,000 in cash will have to be paid on arrival to the vendor partner for the allotted bike.",
+          "If you bring your own bike, fuel cost will not be included in the package cost.",
+          "Kindly carry one rucksack per person.",
+          "This trip covers locations based on high altitudes.",
+          "High altitude may lead to acute mountain sickness due to lower oxygen pressure than usual. Some symptoms include headache and nausea, among others.",
+          "Kindly read all the sections in the attachment to know more about the trip.",
+          "Kindly pay attention during the briefing and follow all the recommended guidelines.",
+          "Vendor details will be shared post booking. Please coordinate with the vendor for reporting time and location."
+        ],
+        "faqs": [
+          {
+            "question": "What Kind of bike is ideal for this tripe",
+            "answer": "Since ladakh is a rough terrain, a bike with powerful engine and strong build is preferable. The ideal bike for this trip is, RE himalayan."
+          },
+          {
+            "question": "Is it safe for solo riders if I bring my own bike",
+            "answer": "Yes, it is absolutely safe for solo riders to bring their own bike and join the group if they are a good rider. The group departure has an experienced tour marshal along with a mechanic and a backup vehicle. Thus, you can enjoy this adventure with maximum safety."
+          },
+          {
+            "question": "Will there be a tour marshal during the trip?",
+            "answer": "Yes, there will be an experienced tour marshal during the entire trip."
+          },
+          {
+            "question": "What are the essential things to carry for this trip?",
+            "answer": "Please read the product detail page carefully for things to carry for the trip."
+          },
+          {
+            "question": "What is the best time to visit Leh Ladakh?",
+            "answer": "The best time to visit for a Ladakh Bike Trip is from May to October, during this time all the winter snow starts melting resulting in clear and dry roads. Autumn and summer are the best time, as there are a lot of festival celebrations in the town, which makes it more appealing for tourists."
+          },
+          {
+            "question": "Are there any age and weight restrictions pertaining to this trip?",
+            "answer": "Yes, there are age & weight restrictions for this trip. The age limit is 18 to 50. The weight limit is 50 to 100 Kgs as long as there is no medical history or condition involved. Please consult your doctor before visiting the trip."
+          },
+          {
+            "question": "What kind of accommodations will be provided during this trip?",
+            "answer": "The accommodations will be provided in standard hotels/ guest houses and camps on  Single/ Twin/ Triple sharing basis of your selection."
+          },
+          {
+            "question": "What all meals will be covered during this trip?",
+            "answer": "Breakfast and dinner are included in the trip from Dinner on Day 01 to Breakfast on Day 10."
+          },
+          {
+            "question": "Is this trip ideal for beginners? ",
+            "answer": "If you are a frequent bike rider then this trip is perfect for you. If you are not a rider then you can join the trip as a pillion with your rider partner or get a seat on a backup vehicle."
+          },
+          {
+            "question": "What will be the driving hours each day during the trip ?",
+            "answer": "Every day you will be doing a ride of minimum 5 to 6 hours and it may extend depending on the cumulative speed of the group and halts taken during the trip."
+          },
+          {
+            "question": "What are the adventure activities to do during the trip and is it included in the package?",
+            "answer": "You can enjoy river rafting, camping, double humped camel ride and ATV rides during this trip at your expense. It is not a part of the package being offered."
+          },
+          {
+            "question": "Will there be snow on the trall?",
+            "answer": "If you are going for this expedition during the month of Jan to March, you may experience snow on the trail. In the summer, the snow melts completely and the weather is bright and sunny."
+          },
+          {
+            "question": "Are there any permits and documents required to participate ?",
+            "answer": "For riders with their own bikes, all the documents related to the vehicle are mandatory like insurance, RC and Driving license a valid Id & address proof. For other riders, id proof and valid driving license is required.The local permits required will be arranged by our vendor partner however a valid Id proof & address proof, the booking voucher along with your declaration form is required."
+          },
+          {
+            "question": "What is the best way to reach Manali?",
+            "answer": "The best way to reach Manali is by Bus. Manali is very well connected with all the major tourist destinations and you can easily get a bus from Delhi to Manali. You can get state-organized buses or private travel buses. The duration for the same is 12 -13 hours."
+          },
+          {
+            "question": "What is the cancellation policy?",
+            "answer": "If participants are unable or unwilling to proceed with the experience on-site, no refund will be applicable.If order is placed with 100% upfront payment, 100% refund is applicable if cancelled by customer 15 days prior to your date of travel.For orders placed with payment in instalments the following policy is applicable:No refund will be applicable if booking is cancelled by the customer 0 to15 days from the travel date.5% deduction from the total package cost is applicable if booking is cancelled by the customer 15 days & more from the travel date."
+          },
+          {
+            "question": "What is the payment policy?",
+            "answer": "100% payment at the time of booking.Alternatively, we provide our customers with the flexibility of making the payment in up to 3 instalments, with the final instalment to be made by customer 30 days prior to the date of journey.Please contact us for more details."
+          },
+          {
+            "question": "What will happen in case of bad weather or government restrictions?",
+            "answer": "In case of extreme bad weather, government restriction or political disturbance, if any activity is cancelled, then the operator will suggest the best possible alternative. However, a cash refund is not applicable. In case of a change in itinerary due to weather, any additional expenses must be borne by the traveler."
+          },
+          {
+            "question": "What is AMS and what will happen if i suffer from it during the trip?",
+            "answer": "AMS or Acute Mountain Sickness is caused by the quick exposure to low oxygen levels at high altitude. Symptoms of AMS include nausea, fatigue, rapid heart rate and headache to name a few.In case of any symptoms, please inform your tour marshal immediately, if there is any discomfort and oxygen levels drop, backup oxygen cylinder is provided as an immediate relief and the customer is taken to the nearest hospital and moved to a lower altitude region. Once the doctor certifies that you are fit to travel, you can resume the trip or you will be advised to travel back home."
+          },
+          {
+            "question": "What will happen in case my flight is deployed or I arrive a day later or before my date of travel ?",
+            "answer": "Any changes in your schedule pertaining to airlines or transportation will result in a change in the entire itinerary. The operator will suggest the best alternative possible in this case. However, a refund for any missed inclusions will not be provided and any extra cost incurred to rearrange the itinerary will be borne by the traveler."
+          },
+          {
+            "question": "Whom do I contact if I have a query or complaint for this activity?",
+            "answer": "In case of any query/complaint you can contact us."
+          },
+          {
+            "question": "How to modify my  booking?",
+            "answer": "In case of any modification required you can contact us."
+          },
+          {
+            "question": "Are there any discounts for group booking?",
+            "answer": "For discounts on group booking, please contact us."
+          }
+        ],
+        "itinerarydetails": [
+          {
+            "day ": "1",
+            "title": "Arrive Manali - Local Sightseeing and Briefing",
+            "activity": "Upon your arrival at Manali, the gateway to the majestic Himalayas, you’ll be greeted and transferred to your hotel. Take some time to relax and acclimatise to the pleasant weather of this picturesque town. Later in the day, gather for a briefing session conducted by the tour captain. This session will provide you with an overview of the upcoming adventure, including details about the route, bike distribution, safety precautions, and any necessary equipment. After the briefing, enjoy a leisurely evening exploring the local markets or simply unwind at the hotel. Conclude the day with a delicious dinner before retiring for the night"
+          },
+          {
+            "day ": "2",
+            "title": "Manali to Jispa/Sarchu",
+            "activity": "Rise and shine for the beginning of your exhilarating journey towards Ladakh. After a hearty breakfast, gear up for a thrilling ride as you embark on the road trip from Manali to Jispa or Sarchu. The route takes you through the recently inaugurated Atal Tunnel, a marvel of engineering, followed by scenic stops at Tandi, the last petrol pump before Upshi, and Keylong. En route, soak in the breathtaking vistas of snow-capped peaks, lush valleys, and glistening streams. Upon reaching Jispa or Sarchu, settle into your comfortable camp accommodations. Spend the evening exchanging stories with fellow travellers around a campfire under the starlit sky before retiring for the night."
+          },
+          {
+            "day ": "3",
+            "title": "Jispa/ Sarchu to Leh",
+            "activity": "Prepare for another day of adventure as you set off towards the enchanting town of Leh, the heart of Ladakh. Traverse through rugged terrain, crossing notable landmarks such as Zing Zing Bar, Suraj Tal, and the formidable Baralacha La pass at an elevation of 16,040 feet. The journey presents awe-inspiring landscapes, offering ample opportunities for photography enthusiasts. Upon arrival in Leh, check in to your camp accommodations and replenish your energy with a delicious dinner prepared with local flavours."
+          },
+          {
+            "day ": "4",
+            "title": "Leh to Nubra Velley",
+            "activity": "Today’s leg of the journey takes you to the fantastic Nubra Valley, renowned for its stark beauty and surreal landscapes. Brace yourself for an exhilarating ride as you ascend the renowned Khardung La Pass, touted as the world’s highest motorable road at an altitude of 17,982 feet. Take in panoramic views of the surrounding valleys and snow-capped peaks before descending into the verdant oasis of Nubra Valley. Check in to your hotel nestled along the banks of the Nubra River and unwind amidst the serene surroundings."
+          },
+          {
+            "day ": "5",
+            "title": "Nubra to Turtuk to Nubra",
+            "activity": "Embark on an adventure-packed day with a visit to ‘The Great Siachen Base Camp’ or the charming village of Turtuk, situated on the Indo-Pak border in Ladakh. Delve into the rich cultural heritage of the region as you interact with locals and explore the quaint village lanes. Alternatively, if permission constraints prohibit a visit to Siachen, immerse yourself in the rustic charm of Turtuk. Return to Nubra Valley for an overnight stay, reminiscing about the day’s experiences around a bonfire."
+          },
+          {
+            "day ": "6",
+            "title": "Nubra Valley to Pangong Lake",
+            "activity": "Bid farewell to Nubra Valley as you journey towards the serene Pangong Lake, a shimmering azure jewel nestled amidst the rugged Himalayan terrain. Traverse through the newly opened Shyok Village, marvelling at the raw beauty of the landscape. Upon reaching Pangong Lake, be captivated by its ethereal beauty, characterised by ever-changing hues of blue. Check in to your campsite and unwind by the lakeshore, soaking in the tranquillity of your surroundings."
+          },
+          {
+            "day ": "7",
+            "title": " Pangong to Leh",
+            "activity": "Embark on the return journey to Leh, traversing through the scenic vistas of Pangong Tso and crossing the challenging Chang La Pass, standing at an elevation of 17,590 feet. Pause to savour a hearty breakfast amidst the breathtaking mountain panoramas. Descend into the picturesque village of Shakti before continuing your journey towards Leh via the Manali-Leh Highway. Upon arrival, take some time to explore the bustling streets of Leh before retiring for the night."
+          },
+          {
+            "day ": "8",
+            "title": "Leh to Kargil",
+            "activity": "Set out for Kargil, a town steeped in history and nestled amidst the rugged Himalayan landscape. En route, cross the majestic Fotu La Pass, offering panoramic views of the surrounding valleys. Make a stop at the ancient Lamayuru Monastery, perched atop a rocky outcrop, before descending into the charming town of Kargil. Check in to your hotel and relax after a day of exhilarating adventures."
+          },
+          {
+            "day ": "9",
+            "title": "Kargil to Srinagar",
+            "activity": "Continue your journey towards the picturesque city of Srinagar, the crown jewel of Jammu and Kashmir. Traverse through the scenic Zojila Pass, offering panoramic vistas of the surrounding mountainscapes. Pause for a while to soak in the beauty of the Sonamarg Valley before proceeding to Srinagar. Upon arrival,  Spend the night in your pre book accommodation "
+          },
+          {
+            "day ": "10",
+            "title": "Depart from Srinagar",
+            "activity": "On the final day of your adventure-filled expedition, bid farewell to the enchanting land of Ladakh as you prepare to depart from Srinagar. Reflect on the myriad experiences and memories gathered during your journey as you transfer to the airport for your onward journey home."
+          }
+        ],
+        "documentsChecklist": [
+          "Valid Photo ID (Aadhaar Card, Passport, Driving License, etc.)",
+          "Riding License (Mandatory for all participants)",
+          "Registration Certificate (RC) of the motorcycle",
+          "Vehicle Insurance (Valid and up-to-date)",
+          "Pollution Under Control (PUC) Certificate",
+          "Confirmation email or ticket for the ride",
+          "Proof of payment (if applicable)",
+          "Emergency contact details (name and phone number)",
+          "Medical insurance (if available)",
+          "Any personal medication required during the ride",
+          "Roadside assistance membership details (if applicable)",
+          "Membership ID for RIDERSCONNECT (if already a member)",
+          "Signed waiver or indemnity form (if required by the organizers)",
+          "COVID-19 vaccination certificate (if mandated by local regulations)"
+        ]
+      },
+      {
+        "id": 1,
+        "img": [
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_776833903.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_2044050368.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_2044050407.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/1.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/2.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/3.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/4.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/5.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/7.jpg"
+        ],
+        "title": "Ladakh Bike Expedition – Delhi Srinagar Leh Delhi 12N/13D",
+        "location": " Delhi, Srinagar",
+        "startingPoint": [
+          "Delhi",
+          "Delhi Airport/Delhi Railway Station"
+        ],
+        "startingdirection": "https://www.google.com/maps/place/Indira+Gandhi+International+Airport/@28.556986,77.1000942,14z/data=!3m1!4b1!4m6!3m5!1s0x390d1b85fc2a2d89:0xbef376182c43ed9d!8m2!3d28.5561437!4d77.0999623!16zL20vMDEyNDQ0?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D",
+        "endingPoint": [
+          "Delhi",
+          "Delhi Airport/Delhi Railway Station"
+        ],
+        "endingdirection": "https://www.google.com/maps/place/Indira+Gandhi+International+Airport/@28.556986,77.1000942,14z/data=!3m1!4b1!4m6!3m5!1s0x390d1b85fc2a2d89:0xbef376182c43ed9d!8m2!3d28.5561437!4d77.0999623!16zL20vMDEyNDQ0?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D",
+        "overview": "Adventure awaits on AdventuRush’s Ladakh Bike Expedition – Delhi Srinagar Leh Delhi 12N/13D! This 13-day tour plan takes you through the highest peaks, legendary passes, and fantastic natural landscapes. Appreciate the grandeur and wonders of Ladakh on this tour and return home with wonderful memories. Our meticulously designed tour goes beyond the ordinary, covering many iconic destinations on your Ladakh wishlist. See the beauty of the Jhelum River and pay respects at the Kargil War Memorial. Another must-visit destination that we cover on this trip is Leh, a place that blends mighty mountains and rich culture. Conquer the mighty passes of Fotu La and Khardung La, and marvel at the serene Tsoltak Lake. This carefully curated Leh Ladakh tour package starts from Delhi and offers the ultimate biking experience. To know more about this expedition, you may read the itinerary given below.",
+        "features": [
+          " Gutsy Adventure",
+          " Couples/Group Adventure, Solo Adventure",
+          " 24 hrs confirmation",
+          " Stay",
+          "Bike",
+          "Tour Guide"
+        ],
+        "highlights": [
+          "Drive through the longest highway tunnel in India, Atal Tunnel, measuring 9.02 km.",
+          "Enjoy driving through some of the highest passes in the country, such as Nakee La (15,547 ft), Lachung La (16,616 ft), and Baralacha La (16,040 ft).",
+          "Drive across Khardung La, which is one of the world's highest motorable roads.",
+          "Experience riding through the almost treacherous snow at Baralacha La.",
+          "Visit the Siachen Base Camp, the world’s highest battlefield.",
+          "From Nubra Valley, embark on a journey to the serene Pangong Lake.",
+          "Visit Kargil and Siachen to learn more about the Indian Army and feel a surge of patriotism run through your body.",
+          "Experience driving through Zojila Pass, one of the most picturesque passes in the region.",
+          "Visit Shyok Village, which was recently opened to tourists."
+        ],
+        "pdfSent": true,
+        "pdfLinks": [
+          "https://example.com/ride-details.pdf",
+          "https://example.com/itinerary.pdf"
+        ],
+        "itinerary": [
+          {
+            "day ": "1",
+            "title": "Arrive Manali - Local Sightseeing and Briefing",
+            "activity": [
+              "Upon arrival at Manali, check in at the hotel and relax to acclimatise to the weather.",
+              "The tour captain will give you a brief overview of the ride, the itinerary, bike distribution, etc. Enjoy a leisurely evening.",
+              "After a delicious dinner, relax at the hotel."
+            ]
+          },
+          {
+            "day ": "2",
+            "title": "Manali to Jispa",
+            "activity": [
+              "150 kms / 250 kms  | 10,500 ft. The journey to Ladakh begins on Day 2. Prepare yourself for a thrilling ride!",
+              "The route takes you through Atal Tunnel, Tandi (last petrol pump before Upshi), and Keylong. ",
+              "The group will be accommodated in camps at Jipsa/Sarchu upon reaching there."
+            ]
+          },
+          {
+            "day ": "3",
+            "title": "Jispa/ Sarchu to Leh",
+            "activity": [
+              "250 kms / 350 kms  |  13,780 ft. Gear up for a challenging ride on Day 3, a journey that includes driving across Zing Zing Bar, Suraj Tal, Baralacha La-16040 ft., and Killing Sarai.",
+              "The tour captain will give you a brief overview of the ride, the itinerary, bike distribution, etc. Enjoy a leisurely evening.",
+              "Upon arriving at the destination, we will stay in camps and have a flavourful dinner."
+            ]
+          },
+          {
+            "day ": "4",
+            "title": "Leh to Nubra Velley",
+            "activity": [
+              "160 kms | 3-4 hrs | 17,982 ft. In this section of the Srinagar to Manali Motorbike Expedition, the journey leads you to Nubra Valley via a scenic and thrilling route. ",
+              "The road to the valley crosses Khardung La, known as the world’s highest motorable road.",
+              "The hotel located on the banks of the Nubra River in Nubra Valley is the perfect place for a relaxing overnight stay."
+            ]
+          },
+          {
+            "day ": "5",
+            "title": "Nubra to Turtuk to Nubra",
+            "activity": [
+              "300 kms | 5-6 hrs",
+              "At ‘The Great Siachen Base Camp’ excursion, experience adventure at its best.",
+              "Siachen is located at an altitude of 12000 ft above sea level—the highest battlefield in the world.",
+              "If a visit to Siachen is not possible due to permission hassles, you will be taken for a wonderful excursion to Turtuk, the last village on the Indo-Pak border in Ladakh.",
+              "Stay in Nubra for the night."
+            ]
+          },
+          {
+            "day ": "6",
+            "title": "Nubra Valley to Pangong Lake",
+            "activity": [
+              "150 kms | 3-4 hrs | 14,270 ft",
+              "On Day 6, we move toward the pristine Pangong Lake.",
+              "The road will take you through the newly opened Shyok Village.",
+              "When you reach the shores of this enchanted water body, you will be amazed by its beauty, tranquillity, and vivid colours.",
+              "Next, transfer to the campsite for a bonfire and an evening of relaxation in nature."
+            ]
+          },
+          {
+            "day ": "7",
+            "title": " Pangong to Leh",
+            "activity": [
+              "160 kms | 5-6 hrs | 17,590 ft",
+              "Day 7 brings a unique adventure, with Pangong Tso’s scenic views and stunning landscapes. Before leaving for Leh, breakfast will be served. ",
+              "Cross Chang La (17,590 ft), the second-highest pass of the world, is considered one of the toughest to cross in the world. Leh and the Changthang Plateau are connected by this pass.",
+              "There is a small lake called Tsoltak that we can see before climbing the Mighty Pass.",
+              "There will be a descent into Shakti, a beautiful village, after crossing the pass, and the journey continues toward the Manali-Leh Highway.",
+              "Upon arrival in Leh, roam around the city and rest for the night here."
+            ]
+          },
+          {
+            "day ": "8",
+            "title": "Leh to Kargil",
+            "activity": [
+              "220 kms | 5 hours | 8,780 ft",
+              "Today, we head toward Kargil. Enroute, we will cross Fotu La (13,480 ft), which is the highest in the region in terms of altitude. ",
+              "Cross Chang La (17,590 ft), the second-highest pass of the world, is considered one of the toughest to cross in the world. Leh and the Changthang Plateau are connected by this pass.",
+              "After we visit the Buddhist Monastery of Lamayuru on the way, our next stop will be Fatu La, followed by a descent into the lovely town of Kargil.",
+              "Stay overnight at the hotel."
+            ]
+          },
+          {
+            "day ": "9",
+            "title": "Kargil to Srinagar",
+            "activity": [
+              "200 kms | 6 hrs | 5,200 ft",
+              "After a healthy breakfast, the expedition to Ladakh will begin.",
+              "Witness one of the most picturesque passes in the region, the Zojila Pass. ",
+              "We will take a short break before moving ahead to Srinagar via the breathtaking Sonamarg Valley. ",
+              "The next destination is Srinagar, the capital of Jammu and Kashmir.",
+              "Spend the night in your pre book accommodation."
+            ]
+          },
+          {
+            "day ": "10",
+            "title": "Depart from Srinagar",
+            "activity": [
+              "On Day 10, get ready to depart from Srinagar. Our team wishes you a happy journey back home."
+            ]
+          }
+        ],
+        "stayoptions": [
+          "Manali : Westin 'O' Laurent and Banon Resort/ Seven Hills/ or Similar",
+          "Jispa : Jispa Journey Camps/ Gemur Camps Similar",
+          "Sarchu : Snow Gold Camps/ Wild Adventures/ Holiday Makers/ or Similar",
+          "Leh : Zik Zik/ Royal Heritage Resort/ or Similar",
+          "Nubra : Lasthang/ Alpin Glow Camp/ or Similar",
+          "Pangong : White Heaven Cottage/ or Similar",
+          "Kargil : Rangyul/ Caravan/ or Similar",
+          "Srinagar : Amina House Boat/ or Similar"
+        ],
+        "inclusions": [
+          "Bike",
+          "Fuel",
+          "Helmet",
+          "Permits",
+          "Mechanic",
+          "First Aid Kit",
+          "Oxygen Cylinder",
+          "Accomodation",
+          "Backup Vehicle",
+          "Experienced Tour Marshal",
+          "Breakfast & Dinner ( Dinner on Day 01 to Breakfast on Day 10)",
+          "Bon Fire (Wherever Possible: Depends on the Weather Condition)"
+        ],
+        "note": [
+          "A refundable security deposit of INR 10,000 in cash will have to be paid on arrival to the vendor partner for the allotted bike.",
+          "If you bring your own bike, fuel cost will not be included in the package cost.",
+          "Kindly carry one rucksack per person.",
+          "This trip covers locations based on high altitudes.",
+          "High altitude may lead to acute mountain sickness due to lower oxygen pressure than usual. Some symptoms include headache and nausea, among others.",
+          "Kindly read all the sections in the attachment to know more about the trip.",
+          "Kindly pay attention during the briefing and follow all the recommended guidelines.",
+          "Vendor details will be shared post booking. Please coordinate with the vendor for reporting time and location."
+        ],
+        "faqs": [
+          {
+            "question": "What Kind of bike is ideal for this tripe",
+            "answer": "Since ladakh is a rough terrain, a bike with powerful engine and strong build is preferable. The ideal bike for this trip is, RE himalayan."
+          },
+          {
+            "question": "Is it safe for solo riders if I bring my own bike",
+            "answer": "Yes, it is absolutely safe for solo riders to bring their own bike and join the group if they are a good rider. The group departure has an experienced tour marshal along with a mechanic and a backup vehicle. Thus, you can enjoy this adventure with maximum safety."
+          },
+          {
+            "question": "Will there be a tour marshal during the trip?",
+            "answer": "Yes, there will be an experienced tour marshal during the entire trip."
+          },
+          {
+            "question": "What are the essential things to carry for this trip?",
+            "answer": "Please read the product detail page carefully for things to carry for the trip."
+          },
+          {
+            "question": "What is the best time to visit Leh Ladakh?",
+            "answer": "The best time to visit for a Ladakh Bike Trip is from May to October, during this time all the winter snow starts melting resulting in clear and dry roads. Autumn and summer are the best time, as there are a lot of festival celebrations in the town, which makes it more appealing for tourists."
+          },
+          {
+            "question": "Are there any age and weight restrictions pertaining to this trip?",
+            "answer": "Yes, there are age & weight restrictions for this trip. The age limit is 18 to 50. The weight limit is 50 to 100 Kgs as long as there is no medical history or condition involved. Please consult your doctor before visiting the trip."
+          },
+          {
+            "question": "What kind of accommodations will be provided during this trip?",
+            "answer": "The accommodations will be provided in standard hotels/ guest houses and camps on  Single/ Twin/ Triple sharing basis of your selection."
+          },
+          {
+            "question": "What all meals will be covered during this trip?",
+            "answer": "Breakfast and dinner are included in the trip from Dinner on Day 01 to Breakfast on Day 10."
+          },
+          {
+            "question": "Is this trip ideal for beginners? ",
+            "answer": "If you are a frequent bike rider then this trip is perfect for you. If you are not a rider then you can join the trip as a pillion with your rider partner or get a seat on a backup vehicle."
+          },
+          {
+            "question": "What will be the driving hours each day during the trip ?",
+            "answer": "Every day you will be doing a ride of minimum 5 to 6 hours and it may extend depending on the cumulative speed of the group and halts taken during the trip."
+          },
+          {
+            "question": "What are the adventure activities to do during the trip and is it included in the package?",
+            "answer": "You can enjoy river rafting, camping, double humped camel ride and ATV rides during this trip at your expense. It is not a part of the package being offered."
+          },
+          {
+            "question": "Will there be snow on the trall?",
+            "answer": "If you are going for this expedition during the month of Jan to March, you may experience snow on the trail. In the summer, the snow melts completely and the weather is bright and sunny."
+          },
+          {
+            "question": "Are there any permits and documents required to participate ?",
+            "answer": "For riders with their own bikes, all the documents related to the vehicle are mandatory like insurance, RC and Driving license a valid Id & address proof. For other riders, id proof and valid driving license is required.The local permits required will be arranged by our vendor partner however a valid Id proof & address proof, the booking voucher along with your declaration form is required."
+          },
+          {
+            "question": "What is the best way to reach Manali?",
+            "answer": "The best way to reach Manali is by Bus. Manali is very well connected with all the major tourist destinations and you can easily get a bus from Delhi to Manali. You can get state-organized buses or private travel buses. The duration for the same is 12 -13 hours."
+          },
+          {
+            "question": "What is the cancellation policy?",
+            "answer": "If participants are unable or unwilling to proceed with the experience on-site, no refund will be applicable.If order is placed with 100% upfront payment, 100% refund is applicable if cancelled by customer 15 days prior to your date of travel.For orders placed with payment in instalments the following policy is applicable:No refund will be applicable if booking is cancelled by the customer 0 to15 days from the travel date.5% deduction from the total package cost is applicable if booking is cancelled by the customer 15 days & more from the travel date."
+          },
+          {
+            "question": "What is the payment policy?",
+            "answer": "100% payment at the time of booking.Alternatively, we provide our customers with the flexibility of making the payment in up to 3 instalments, with the final instalment to be made by customer 30 days prior to the date of journey.Please contact us for more details."
+          },
+          {
+            "question": "What will happen in case of bad weather or government restrictions?",
+            "answer": "In case of extreme bad weather, government restriction or political disturbance, if any activity is cancelled, then the operator will suggest the best possible alternative. However, a cash refund is not applicable. In case of a change in itinerary due to weather, any additional expenses must be borne by the traveler."
+          },
+          {
+            "question": "What is AMS and what will happen if i suffer from it during the trip?",
+            "answer": "AMS or Acute Mountain Sickness is caused by the quick exposure to low oxygen levels at high altitude. Symptoms of AMS include nausea, fatigue, rapid heart rate and headache to name a few.In case of any symptoms, please inform your tour marshal immediately, if there is any discomfort and oxygen levels drop, backup oxygen cylinder is provided as an immediate relief and the customer is taken to the nearest hospital and moved to a lower altitude region. Once the doctor certifies that you are fit to travel, you can resume the trip or you will be advised to travel back home."
+          },
+          {
+            "question": "What will happen in case my flight is deployed or I arrive a day later or before my date of travel ?",
+            "answer": "Any changes in your schedule pertaining to airlines or transportation will result in a change in the entire itinerary. The operator will suggest the best alternative possible in this case. However, a refund for any missed inclusions will not be provided and any extra cost incurred to rearrange the itinerary will be borne by the traveler."
+          },
+          {
+            "question": "Whom do I contact if I have a query or complaint for this activity?",
+            "answer": "In case of any query/complaint you can contact us."
+          },
+          {
+            "question": "How to modify my  booking?",
+            "answer": "In case of any modification required you can contact us."
+          },
+          {
+            "question": "Are there any discounts for group booking?",
+            "answer": "For discounts on group booking, please contact us."
+          }
+        ],
+        "itinerarydetails": [
+          {
+            "day ": "1",
+            "title": "Arrive Manali - Local Sightseeing and Briefing",
+            "activity": "Upon your arrival at Manali, the gateway to the majestic Himalayas, you’ll be greeted and transferred to your hotel. Take some time to relax and acclimatise to the pleasant weather of this picturesque town. Later in the day, gather for a briefing session conducted by the tour captain. This session will provide you with an overview of the upcoming adventure, including details about the route, bike distribution, safety precautions, and any necessary equipment. After the briefing, enjoy a leisurely evening exploring the local markets or simply unwind at the hotel. Conclude the day with a delicious dinner before retiring for the night"
+          },
+          {
+            "day ": "2",
+            "title": "Manali to Jispa/Sarchu",
+            "activity": "Rise and shine for the beginning of your exhilarating journey towards Ladakh. After a hearty breakfast, gear up for a thrilling ride as you embark on the road trip from Manali to Jispa or Sarchu. The route takes you through the recently inaugurated Atal Tunnel, a marvel of engineering, followed by scenic stops at Tandi, the last petrol pump before Upshi, and Keylong. En route, soak in the breathtaking vistas of snow-capped peaks, lush valleys, and glistening streams. Upon reaching Jispa or Sarchu, settle into your comfortable camp accommodations. Spend the evening exchanging stories with fellow travellers around a campfire under the starlit sky before retiring for the night."
+          },
+          {
+            "day ": "3",
+            "title": "Jispa/ Sarchu to Leh",
+            "activity": "Prepare for another day of adventure as you set off towards the enchanting town of Leh, the heart of Ladakh. Traverse through rugged terrain, crossing notable landmarks such as Zing Zing Bar, Suraj Tal, and the formidable Baralacha La pass at an elevation of 16,040 feet. The journey presents awe-inspiring landscapes, offering ample opportunities for photography enthusiasts. Upon arrival in Leh, check in to your camp accommodations and replenish your energy with a delicious dinner prepared with local flavours."
+          },
+          {
+            "day ": "4",
+            "title": "Leh to Nubra Velley",
+            "activity": "Today’s leg of the journey takes you to the fantastic Nubra Valley, renowned for its stark beauty and surreal landscapes. Brace yourself for an exhilarating ride as you ascend the renowned Khardung La Pass, touted as the world’s highest motorable road at an altitude of 17,982 feet. Take in panoramic views of the surrounding valleys and snow-capped peaks before descending into the verdant oasis of Nubra Valley. Check in to your hotel nestled along the banks of the Nubra River and unwind amidst the serene surroundings."
+          },
+          {
+            "day ": "5",
+            "title": "Nubra to Turtuk to Nubra",
+            "activity": "Embark on an adventure-packed day with a visit to ‘The Great Siachen Base Camp’ or the charming village of Turtuk, situated on the Indo-Pak border in Ladakh. Delve into the rich cultural heritage of the region as you interact with locals and explore the quaint village lanes. Alternatively, if permission constraints prohibit a visit to Siachen, immerse yourself in the rustic charm of Turtuk. Return to Nubra Valley for an overnight stay, reminiscing about the day’s experiences around a bonfire."
+          },
+          {
+            "day ": "6",
+            "title": "Nubra Valley to Pangong Lake",
+            "activity": "Bid farewell to Nubra Valley as you journey towards the serene Pangong Lake, a shimmering azure jewel nestled amidst the rugged Himalayan terrain. Traverse through the newly opened Shyok Village, marvelling at the raw beauty of the landscape. Upon reaching Pangong Lake, be captivated by its ethereal beauty, characterised by ever-changing hues of blue. Check in to your campsite and unwind by the lakeshore, soaking in the tranquillity of your surroundings."
+          },
+          {
+            "day ": "7",
+            "title": " Pangong to Leh",
+            "activity": "Embark on the return journey to Leh, traversing through the scenic vistas of Pangong Tso and crossing the challenging Chang La Pass, standing at an elevation of 17,590 feet. Pause to savour a hearty breakfast amidst the breathtaking mountain panoramas. Descend into the picturesque village of Shakti before continuing your journey towards Leh via the Manali-Leh Highway. Upon arrival, take some time to explore the bustling streets of Leh before retiring for the night."
+          },
+          {
+            "day ": "8",
+            "title": "Leh to Kargil",
+            "activity": "Set out for Kargil, a town steeped in history and nestled amidst the rugged Himalayan landscape. En route, cross the majestic Fotu La Pass, offering panoramic views of the surrounding valleys. Make a stop at the ancient Lamayuru Monastery, perched atop a rocky outcrop, before descending into the charming town of Kargil. Check in to your hotel and relax after a day of exhilarating adventures."
+          },
+          {
+            "day ": "9",
+            "title": "Kargil to Srinagar",
+            "activity": "Continue your journey towards the picturesque city of Srinagar, the crown jewel of Jammu and Kashmir. Traverse through the scenic Zojila Pass, offering panoramic vistas of the surrounding mountainscapes. Pause for a while to soak in the beauty of the Sonamarg Valley before proceeding to Srinagar. Upon arrival,  Spend the night in your pre book accommodation "
+          },
+          {
+            "day ": "10",
+            "title": "Depart from Srinagar",
+            "activity": "On the final day of your adventure-filled expedition, bid farewell to the enchanting land of Ladakh as you prepare to depart from Srinagar. Reflect on the myriad experiences and memories gathered during your journey as you transfer to the airport for your onward journey home."
+          }
+        ],
+        "documentsChecklist": [
+          "Valid Photo ID (Aadhaar Card, Passport, Driving License, etc.)",
+          "Riding License (Mandatory for all participants)",
+          "Registration Certificate (RC) of the motorcycle",
+          "Vehicle Insurance (Valid and up-to-date)",
+          "Pollution Under Control (PUC) Certificate",
+          "Confirmation email or ticket for the ride",
+          "Proof of payment (if applicable)",
+          "Emergency contact details (name and phone number)",
+          "Medical insurance (if available)",
+          "Any personal medication required during the ride",
+          "Roadside assistance membership details (if applicable)",
+          "Membership ID for RIDERSCONNECT (if already a member)",
+          "Signed waiver or indemnity form (if required by the organizers)",
+          "COVID-19 vaccination certificate (if mandated by local regulations)"
+        ]
+      },
+      {
+        "id": 1,
+        "img": [
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_776833903.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_2044050368.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2023/01/shutterstock_2044050407.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/1.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/2.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/3.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/4.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/5.jpg",
+          "https://www.adventurush.com/wp-content/uploads/2022/06/7.jpg"
+        ],
+        "title": "8N/9D Chandigarh Spiti Valley – Bike Expedition",
+        "location": " Chandigarh",
+        "startingPoint": [
+          "Chandigarh",
+          "ISBT Road, 17G, 17F, Sector 17, Chandigarh, 160017"
+        ],
+        "startingdirection": "https://www.google.com/maps/place/Chandigarh+Bus+Terminus/@30.735554,76.778775,17z/data=!3m1!4b1!4m6!3m5!1s0x390feda7451be74d:0xaef41bb724e02c38!8m2!3d30.735554!4d76.778775!16s%2Fg%2F1tf5zp4h?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+        "endingPoint": [
+          "Chandigarh",
+          "ISBT Road, 17G, 17F, Sector 17, Chandigarh, 160017"
+        ],
+        "endingdirection": "https://www.google.com/maps/place/Chandigarh+Bus+Terminus/@30.735554,76.778775,17z/data=!3m1!4b1!4m6!3m5!1s0x390feda7451be74d:0xaef41bb724e02c38!8m2!3d30.735554!4d76.778775!16s%2Fg%2F1tf5zp4h?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+        "overview": "Have you been planning for a Bike Expedition for a long time but unable to actually go for it? Well, if the answer is a “Yes”, pack a bag, put on your helmets, and set forth on a journey of a lifetime. Experience the majestic Spiti Valley in its full glory by driving past some stunning scenic landscapes such as Chail, Kufri, and Hatu Peaks. And that’s not all! Enjoy the stunning mountains, lakes, cirques, and so much more as you travel through the winding roads.",
+        "features": [
+          " Gutsy Adventure",
+          " Couples/Group Adventure, Solo Adventure",
+          " 24 hrs confirmation",
+          " Stay",
+          "Bike",
+          "Tour Guide"
+        ],
+        "highlights": [
+          "While driving towards Spiti, witness stunning views of Chail, Kufri, and Hatu Peak.",
+          "Drive to some beautiful scenic viewpoints at Kinnaur Valley.",
+          "The Khab-Confluence or the Khab Sangam of the Satluj River and Spiti River is a sight to behold.",
+          "Enjoy the colours of the Nako Lake as you grab a bite.",
+          "Visit the Siachen Base Camp, the world’s highest battlefield.",
+          "Key Gompa Monastery, in its bowl-shaped form, is a great getaway for some spiritual time.",
+          "Visit the beautiful crescent-shaped Chandratal Lake to create memories of a lifetime."
+        ],
+        "pdfSent": true,
+        "pdfLinks": [
+          "https://example.com/ride-details.pdf",
+          "https://example.com/itinerary.pdf"
+        ],
+        "itinerary": [
+          {
+            "day ": "1",
+            "title": "Arrive in Chandigarh",
+            "activity": [
+              "After reaching the hotel in Chandigarh, meet the crew members and fellow travellers. ",
+              "After a detailed briefing on the tour, the bikes will be assigned. ",
+              "Stay in Chandigarh for the night and enjoy a delicious dinner at the hotel setting the mood for the upcoming adventure."
+            ]
+          },
+          {
+            "day ": "2",
+            "title": "chandigarh to Narkanda /Rampur",
+            "activity": [
+              "After breakfast, begin your journey to Spiti. ",
+              "Behold the stunning views of Chail, Kufri, and Hatu Peak as you zoom past the winding roads. ",
+              "Conclude the day with an overnight stay in a hotel/homestay and a warm dinner."
+            ]
+          },
+          {
+            "day ": "3",
+            "title": "Narkanda/ Rampur to Chitkul/Sangla",
+            "activity": [
+              "After breakfast, depart for one of the most beautiful views of Kinnaur Valley. ",
+              "The village is the last inhabited one before the border between India and China. ",
+              "Finally, call it a day with a delicious dinner and overnight stay at the Hotel/ Homestay."
+            ]
+          },
+          {
+            "day ": "4",
+            "title": "Chitkul/ Sangla to Kalpa",
+            "activity": [
+              "After breakfast head to Kalpa, which is just 60 Kms away.",
+              "Reach Kalpa by the afternoon.",
+              "Overnight stay at Camp/Homestay."
+            ]
+          },
+          {
+            "day ": "5",
+            "title": "Kalpa to Kaza",
+            "activity": [
+              "Depart for Kaza after breakfast. ",
+              "Take the famous Indo-Tibet highway to head towards your destination.",
+              "On your way take a pit stop at the Khab Sangam which is the Confluence of the Satluj River and Spiti River.",
+              "Cross Nako and enter Spiti Valley right after crossing Sumdo.",
+              "Take a break at Nako Lake for lunch.",
+              "Take a detour from here to visit the 500-year-old Mummy in the Gue Village.",
+              "Return to Kaza for an overnight stay at a hotel."
+            ]
+          },
+          {
+            "day ": "6",
+            "title": "Kaza to Hikkim -Komik-Langza Sightseeing",
+            "activity": [
+              "Wake up early and after breakfast, set out to explore the breathtaking beauty of Kaza. ",
+              "The small village Langza of Spiti Valley contains some of the most attractive tourist attractions such as Key Gompa Monastery.",
+              "The village is located at an astounding 14,500 ft above sea level. Moreover, it is the highest village in the world with a motorable road.",
+              "Take a stop at Komic, the highest village with a motorable road. ",
+              "The village of Hikkim in Spiti District, near Kaza, is another beautiful location and the next destination on your itinerary.",
+              ""
+            ]
+          },
+          {
+            "day ": "7",
+            "title": "Kaza to Kunzum La to Chadratal/ Sissu",
+            "activity": [
+              "On the 7th day our motorbike excursion moves to the beautiful crescent-shaped Chandratal Lake, the next location on the map.",
+              "There are parking facilities two km away from the lake. ",
+              "The next stop is a lake in the Spiti region of Lahaul and Spiti district that is also known as “Moon Lake.” On one side, it is surrounded by mountains and on the other by a cirque. ",
+              "Watch the unforgettable sunset from here to create the memory of a lifetime. ",
+              "Spend the night in a camp under the stars."
+            ]
+          },
+          {
+            "day ": "8",
+            "title": "Chandratal/ Sissu to Manali",
+            "activity": [
+              "The ride from Spiti to Manali will begin on the 8th day.",
+              "By evening, reach Manali via Rohtang Pass. ",
+              "After you check into the hotel, the day will be at disposal to explore or relax.",
+              "Spend a relaxed evening with an overnight stay at the hotel."
+            ]
+          },
+          {
+            "day ": "9",
+            "title": "Manali to Chandigarh",
+            "activity": [
+              "This is the last day of the tour.",
+              "The ride today starts after breakfast in Manali and ends in Chandigarh in the evening."
+            ]
+          }
+        ],
+        "stayoptions": [
+          "Manali : Westin 'O' Laurent and Banon Resort/ Seven Hills/ or Similar",
+          "Jispa : Jispa Journey Camps/ Gemur Camps Similar",
+          "Sarchu : Snow Gold Camps/ Wild Adventures/ Holiday Makers/ or Similar",
+          "Leh : Zik Zik/ Royal Heritage Resort/ or Similar",
+          "Nubra : Lasthang/ Alpin Glow Camp/ or Similar",
+          "Pangong : White Heaven Cottage/ or Similar",
+          "Kargil : Rangyul/ Caravan/ or Similar",
+          "Srinagar : Amina House Boat/ or Similar"
+        ],
+        "inclusions": [
+          "Bike",
+          "Fuel",
+          "Helmet",
+          "Permits",
+          "Mechanic",
+          "First Aid Kit",
+          "Oxygen Cylinder",
+          "Accomodation",
+          "Backup Vehicle",
+          "Experienced Tour Marshal",
+          "Breakfast & Dinner ( Dinner on Day 01 to Breakfast on Day 10)",
+          "Bon Fire (Wherever Possible: Depends on the Weather Condition)"
+        ],
+        "note": [
+          "A refundable security deposit of INR 10,000 in cash will have to be paid on arrival to the vendor partner for the allotted bike.",
+          "If you bring your own bike, fuel cost will not be included in the package cost.",
+          "Kindly carry one rucksack per person.",
+          "This trip covers locations based on high altitudes.",
+          "High altitude may lead to acute mountain sickness due to lower oxygen pressure than usual. Some symptoms include headache and nausea, among others.",
+          "Kindly read all the sections in the attachment to know more about the trip.",
+          "Kindly pay attention during the briefing and follow all the recommended guidelines.",
+          "Vendor details will be shared post booking. Please coordinate with the vendor for reporting time and location."
+        ],
+        "faqs": [
+          {
+            "question": "What Kind of bike is ideal for this tripe",
+            "answer": "Since this is a rough terrain, a bike with a powerful engine and strong build is preferable. The ideal bike for this trip is RE 350cc, RE Classic 500cc, RE Himalayan, RE Thunderbird, Bajaj Avenger and in adventure bikes, you can try KTM Duke, and KTM Adventure 390."
+          },
+          {
+            "question": "Is it safe for solo riders if I bring my own bike",
+            "answer": "Yes, it is absolutely safe for solo riders to bring their own bike and join the group if they are a good rider. The group departure has an experienced tour marshal along with a mechanic and a backup vehicle. Thus, you can enjoy this adventure with maximum safety."
+          },
+          {
+            "question": "Will there be a tour marshal during the trip?",
+            "answer": "Yes, there will be an experienced tour marshal during the entire trip."
+          },
+          {
+            "question": "What are the essential things to carry for this trip?",
+            "answer": "Please read the product detail page carefully for things to carry for the trip."
+          },
+          {
+            "question": "What is the best time to visit Leh Ladakh?",
+            "answer": "The best time to visit for a Ladakh Bike Trip is from May to October, during this time all the winter snow starts melting resulting in clear and dry roads. Autumn and summer are the best time, as there are a lot of festival celebrations in the town, which makes it more appealing for tourists."
+          },
+          {
+            "question": "Are there any age and weight restrictions pertaining to this trip?",
+            "answer": "Yes, there are age & weight restrictions for this trip. The age limit is 18 to 50. The weight limit is 50 to 100 Kgs as long as there is no medical history or condition involved. Please consult your doctor before visiting the trip."
+          },
+          {
+            "question": "What kind of accommodations will be provided during this trip?",
+            "answer": "The accommodations will be provided in standard hotels/ guest houses and camps on  Single/ Twin/ Triple sharing basis of your selection."
+          },
+          {
+            "question": "What all meals will be covered during this trip?",
+            "answer": "Breakfast and dinner are included in the trip from Dinner on Day 01 to Breakfast on Day 10."
+          },
+          {
+            "question": "Is this trip ideal for beginners? ",
+            "answer": "If you are a frequent bike rider then this trip is perfect for you. If you are not a rider then you can join the trip as a pillion with your rider partner or get a seat on a backup vehicle."
+          },
+          {
+            "question": "What will be the driving hours each day during the trip ?",
+            "answer": "Every day you will be doing a ride of minimum 5 to 6 hours and it may extend depending on the cumulative speed of the group and halts taken during the trip."
+          },
+          {
+            "question": "What are the adventure activities to do during the trip and is it included in the package?",
+            "answer": "You can enjoy river rafting, camping, double humped camel ride and ATV rides during this trip at your expense. It is not a part of the package being offered."
+          },
+          {
+            "question": "Will there be snow on the trall?",
+            "answer": "If you are going for this expedition during the month of Jan to March, you may experience snow on the trail. In the summer, the snow melts completely and the weather is bright and sunny."
+          },
+          {
+            "question": "Are there any permits and documents required to participate ?",
+            "answer": "For riders with their own bikes, all the documents related to the vehicle are mandatory like insurance, RC and Driving license a valid Id & address proof. For other riders, id proof and valid driving license is required.The local permits required will be arranged by our vendor partner however a valid Id proof & address proof, the booking voucher along with your declaration form is required."
+          },
+          {
+            "question": "What is the best way to reach Manali?",
+            "answer": "The best way to reach Manali is by Bus. Manali is very well connected with all the major tourist destinations and you can easily get a bus from Delhi to Manali. You can get state-organized buses or private travel buses. The duration for the same is 12 -13 hours."
+          },
+          {
+            "question": "What is the cancellation policy?",
+            "answer": "If participants are unable or unwilling to proceed with the experience on-site, no refund will be applicable.If order is placed with 100% upfront payment, 100% refund is applicable if cancelled by customer 15 days prior to your date of travel.For orders placed with payment in instalments the following policy is applicable:No refund will be applicable if booking is cancelled by the customer 0 to15 days from the travel date.5% deduction from the total package cost is applicable if booking is cancelled by the customer 15 days & more from the travel date."
+          },
+          {
+            "question": "What is the payment policy?",
+            "answer": "100% payment at the time of booking.Alternatively, we provide our customers with the flexibility of making the payment in up to 3 instalments, with the final instalment to be made by customer 30 days prior to the date of journey.Please contact us for more details."
+          },
+          {
+            "question": "What will happen in case of bad weather or government restrictions?",
+            "answer": "In case of extreme bad weather, government restriction or political disturbance, if any activity is cancelled, then the operator will suggest the best possible alternative. However, a cash refund is not applicable. In case of a change in itinerary due to weather, any additional expenses must be borne by the traveler."
+          },
+          {
+            "question": "What is AMS and what will happen if i suffer from it during the trip?",
+            "answer": "AMS or Acute Mountain Sickness is caused by the quick exposure to low oxygen levels at high altitude. Symptoms of AMS include nausea, fatigue, rapid heart rate and headache to name a few.In case of any symptoms, please inform your tour marshal immediately, if there is any discomfort and oxygen levels drop, backup oxygen cylinder is provided as an immediate relief and the customer is taken to the nearest hospital and moved to a lower altitude region. Once the doctor certifies that you are fit to travel, you can resume the trip or you will be advised to travel back home."
+          },
+          {
+            "question": "What will happen in case my flight is deployed or I arrive a day later or before my date of travel ?",
+            "answer": "Any changes in your schedule pertaining to airlines or transportation will result in a change in the entire itinerary. The operator will suggest the best alternative possible in this case. However, a refund for any missed inclusions will not be provided and any extra cost incurred to rearrange the itinerary will be borne by the traveler."
+          },
+          {
+            "question": "Whom do I contact if I have a query or complaint for this activity?",
+            "answer": "In case of any query/complaint you can contact us."
+          },
+          {
+            "question": "How to modify my  booking?",
+            "answer": "In case of any modification required you can contact us."
+          },
+          {
+            "question": "Are there any discounts for group booking?",
+            "answer": "For discounts on group booking, please contact us."
+          }
+        ],
+        "itinerarydetails": [
+          {
+            "day ": "1",
+            "title": "Arrive in Chandigarh",
+            "activity": "Your 8N/9D Chandigarh Spiti Valley adventure begins once you reach the hotel in Chandigarh and meet the crew members and fellow travellers. After a detailed briefing on the tour, the bikes will be assigned. Talk to the crew members if you have any issues with the bike or anything else. You will be spending the night at the hotel in Chandigarh, and enjoying a delicious dinner."
+          },
+          {
+            "day ": "2",
+            "title": " Chandigarh to Narkanda/ Rampur",
+            "activity": "After breakfast, begin your journey to Spiti. Stunning views of Chail, Kufri, and Hatu Peak await as you pass through the winding mountain roads. Overnight stay in hotel/home Stay. Enjoy a warm dinner at your comfortable accommodation before calling it a day."
+          },
+          {
+            "day ": "3",
+            "title": " Narkanda /Rampur to Chitkul/Sangla",
+            "activity": "Wake up early and get ready for the day’s adventures. After breakfast, depart for one of the most beautiful views of Kinnaur Valley. Chitkul is a village and is the last inhabited one before the border between India and China. The scenic views from Chitkul are mesmerising and would make you want to come back for more. Settle down in your accommodation at Chitkul which may be a hotel or homestay. Enjoy a delicious dinner before dozing off dreaming about the trip’s unforgettable memories."
+          },
+          {
+            "day ": "4",
+            "title": "Chitkul/ Sangla to Kalpa",
+            "activity": "Wake up early and prepare for day 4’s adventures. After breakfast head to Kalpa, which is just 60 Kms away. If the weather and road conditions remain fine you will reach Kalpa by afternoon. Spend the rest of the day exploring the local beauties of the place surrounded by majestic mountains. Call it a day with an overnight stay at Camp/Homestay.Wake up early and prepare for day 4’s adventures. After breakfast head to Kalpa, which is just 60 Kms away. If the weather and road conditions remain fine you will reach Kalpa by afternoon. Spend the rest of the day exploring the local beauties of the place surrounded by majestic mountains. Call it a day with an overnight stay at Camp/Homestay."
+          },
+          {
+            "day ": "5",
+            "title": "Kalpa to Kaza",
+            "activity": "As day 5 begins, pack your bags and depart for Kaza after breakfast. You will be travelling through the beautiful Indo-Tibet highway to reach your next destination. On your way, you will cross the “Khab Sangam.” It is the Khab Confluence of the Satluj River and Spiti River.Next on the itinerary you will be crossing Nako and entering Spiti Valley right after crossing Sumdo. Stop at Nako Lake for lunch. The delicious meal in the serene ambiance will definitely create a memory of a lifetime. Take a detour from here to visit the 500-year-old Mummy in the Gue Village. Head to Kaza for dinner and an overnight stay."
+          },
+          {
+            "day ": "6",
+            "title": "Kaza to Hikkim -Komik-Langza Sightseeing",
+            "activity": "As day 6 begins, wake up early and get ready. After breakfast, ride your bike to see the breathtaking beauty of Kaza. The small village Langza of Spiti Valley contains some of the most famous tourist attractions such as Key Gompa Monastery which is nestled between mountains in a bowl-shaped formation. As you approach Komic, you will be spellbound by the views of the Himalayas. The village is located at an astounding 14,500 ft above sea level offering some of the most majestic views of the surroundings. Moreover, it is the highest village in the world with a motorable road, so it is always on the bucket list of “Hodophiles.” The village of Hikkim in Spiti District, near Kaza, is another beautiful location and the last stop for the day. Finally, come back to your accommodation and get a good night’s sleep at the hotel."
+          },
+          {
+            "day ": "7",
+            "title": "Kaza to Kunzum La to Chadratal/ Sissu",
+            "activity": "As day 7 begins our motorbike excursion takes you to the beautiful crescent-shaped Chandratal Lake, the next location on the map. This place will take your breath away. This also holds a religious significance, as according to Hindu mythology, Chandratal Lake is believed to be the place where Lord Vishnu came down on his chariot. There are parking facilities two km away from the lake, so you don’t have to worry about that. Today we will be exploring the Lakes and so our next stop is another lake in the Spiti region of Lahaul and Spiti district that is also known as “Moon Lake.” On one side, it is surrounded by mountains and on the other by a cirque. Seeing the sunset is a sight to behold, so make sure you do not miss the majestic views. Spend the night in a camp under the stars."
+          },
+          {
+            "day ": "8",
+            "title": "Chandratal/ Sissu to Manali",
+            "activity": "The 8th day marks the descent. The ride from Spiti to Manali will begin today. By evening, reach Manali via Rohtang Pass. After you check into the hotel, your bikes will be returned, ending your motorbiking trip. Conclude the day with an overnight stay at the hotel."
+          },
+          {
+            "day ": "9",
+            "title": "Manali to Chandigarh",
+            "activity": "This is the last day of the trip. The ride today starts after breakfast in Manali and ends in Chandigarh in the evening. Head back home with a bag full of unforgettable memories."
+          }
+        ],
+        "documentsChecklist": [
+          "Valid Photo ID (Aadhaar Card, Passport, Driving License, etc.)",
+          "Riding License (Mandatory for all participants)",
+          "Registration Certificate (RC) of the motorcycle",
+          "Vehicle Insurance (Valid and up-to-date)",
+          "Pollution Under Control (PUC) Certificate",
+          "Confirmation email or ticket for the ride",
+          "Proof of payment (if applicable)",
+          "Emergency contact details (name and phone number)",
+          "Medical insurance (if available)",
+          "Any personal medication required during the ride",
+          "Roadside assistance membership details (if applicable)",
+          "Membership ID for RIDERSCONNECT (if already a member)",
+          "Signed waiver or indemnity form (if required by the organizers)",
+          "COVID-19 vaccination certificate (if mandated by local regulations)"
+        ]
+      }
+    ]
+  }
+]

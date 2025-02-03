@@ -42,12 +42,18 @@ const acceptCodeSchema = Joi.object({
 });
 
 const changePasswordSchema = Joi.object({
-    newPassword: Joi.string()
-        .required()
-        .pattern(new RegExp('^(?=.*[a-z])(?=.*[A-Z])(?=.*d).{8,}$')),
     oldPassword: Joi.string()
         .required()
-        .pattern(new RegExp('^(?=.*[a-z])(?=.*[A-Z])(?=.*d).{8,}$')),
+        .pattern(new RegExp('^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$'))
+        .messages({
+            'string.pattern.base': 'Password must be at least 8 characters long and include an uppercase letter, a lowercase letter, a number, and a special character.',
+        }),
+    newPassword: Joi.string()
+        .required()
+        .pattern(new RegExp('^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$'))
+        .messages({
+            'string.pattern.base': 'Password must be at least 8 characters long and include an uppercase letter, a lowercase letter, a number, and a special character.',
+        }),
 });
 
 const acceptFPCodeSchema = Joi.object({
