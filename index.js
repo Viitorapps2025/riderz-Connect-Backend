@@ -25,7 +25,7 @@ app.use('/api/', apiLimiter);
 // Dynamic CORS Configuration
 app.use(
   cors({
-    origin: (origin, callback) => {
+    origin: (http://localhost:5173, callback) => {
       console.log("Origin of request:", origin); // Log origin
       
       callback(null, true); // Allow all origins
